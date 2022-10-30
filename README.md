@@ -33,7 +33,7 @@ In the [camFusion_Student.cpp](./src/camFusion_Student.cpp), `clusterKptMatchesW
 
 #### 4. Compute TTC with camera images
 
-In the [camFusion_Student.cpp](./src/camFusion_Student.cpp), using the knowledge learned in the [Lecture 2-2 Collision Detection Systems](../../lectures/lec2-2-collision-detection-system.md), I completed the `computeTTCCamera` method.
+In the [camFusion_Student.cpp](./src/camFusion_Student.cpp), I completed the `computeTTCCamera` method.
 
 After finishing the pipeline in the [FinalProject_Camera.cpp](./src/FinalProject_Camera.cpp), I could generate TTC estimations based on both Lidar points and Camera images.
 
